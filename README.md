@@ -1,7 +1,7 @@
 # kubernetes-codelab
 
 Sign up to google cloud 
-<a href="cloud.google.com" target="_blank">here</a>.
+<a href="https://cloud.google.com" target="_blank">here</a>.
 
 To enable “Kubernetes Engine API” under API and services, open cloud shell and type<br>
 
